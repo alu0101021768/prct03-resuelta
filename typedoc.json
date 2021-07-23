@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/ej6.ts",
+    "./src/ej7.ts"
+  ],
+  "out": "./docs"
+}
